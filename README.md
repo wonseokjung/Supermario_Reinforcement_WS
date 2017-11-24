@@ -3,7 +3,8 @@
  
  Reinforcmentlearning tutorial
  
- Enviornment : Paquette 
+ Enviornment : Paquette,
+ 
  Algorithm : DQN
  
  Tensorflow and Keras
